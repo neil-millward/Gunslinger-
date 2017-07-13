@@ -1,0 +1,72 @@
+
+run.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_One
+  rotate: false
+  xy: 1, 1
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 1
+Run_Two
+  rotate: false
+  xy: 1, 474
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 0
+
+
+run2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 474
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 4
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 5
+Run_
+  rotate: false
+  xy: 388, 474
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 6
+Run_
+  rotate: false
+  xy: 388, 1
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 7
+
+run3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 8
+Run_
+  rotate: false
+  xy: 388, 1
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 9

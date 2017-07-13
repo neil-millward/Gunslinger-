@@ -1,0 +1,75 @@
+playerRunShootTp.png
+size: 1740, 1413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Run_Shoot_One
+  rotate: false
+  xy: 0, 0
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 0
+Run_Shoot_
+  rotate: false
+  xy: 435, 0
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 1
+Run_Shoot_
+  rotate: false
+  xy: 870, 0
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 2
+Run_Shoot_
+  rotate: false
+  xy: 1305, 0
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 3
+Run_Shoot_
+  rotate: false
+  xy: 0, 471
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 4
+Run_Shoot_
+  rotate: false
+  xy: 435, 471
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 5
+Run_Shoot_
+  rotate: false
+  xy: 870, 471
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 6
+Run_Shoot_
+  rotate: false
+  xy: 1305, 471
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 7
+Run_Shoot_
+  rotate: false
+  xy: 0, 942
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 8
+Run_Shoot_
+  rotate: false
+  xy: 435, 942
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 9

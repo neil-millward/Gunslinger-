@@ -1,0 +1,75 @@
+happyTp.png
+size: 2028, 1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Happy_
+  rotate: true
+  xy: 453, 548
+  size: 455, 451
+  orig: 550, 542
+  offset: 0,0 
+  index: 0
+Happy_One
+  rotate: true
+  xy: 1, 548
+  size: 469, 450
+  orig: 550, 542
+  offset: 0,0 
+  index: 1
+Happy_
+  rotate: false
+  xy: 1654, 497
+  size: 373, 484
+  orig: 550, 542
+  offset: 0,0 
+  index: 2
+Happy_
+  rotate: false
+  xy: 1640, 1
+  size: 375, 494
+  orig: 550, 542
+  offset: 0,0 
+  index: 3
+Happy_
+  rotate: false
+  xy: 1279, 507
+  size: 373, 501
+  orig: 550, 542
+  offset: 0,0 
+  index: 4
+Happy_
+  rotate: false
+  xy: 906, 515
+  size: 371, 507
+  orig: 550, 542
+  offset: 0,0 
+  index: 5
+Happy_
+  rotate: false
+  xy: 818, 1
+  size: 367, 512
+  orig: 550, 542
+  offset: 0,0 
+  index: 6
+Happy_
+  rotate: false
+  xy: 454, 1
+  size: 362, 517
+  orig: 550, 542
+  offset: 0,0 
+  index: 7
+Happy_
+  rotate: true
+  xy: 1187, 1
+  size: 504, 451
+  orig: 550, 542
+  offset: 0,0 
+  index: 8
+Happy_
+  rotate: true
+  xy: 1, 1
+  size: 545, 451
+  orig: 550, 542
+  offset: 0,0 
+  index: 9

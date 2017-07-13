@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="30" tilewidth="16" tileheight="16" nextobjectid="83">
+ <tileset firstgid="1" name="tilesetOpenGame" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="170" columns="17">
+  <image source="tilesetOpenGame.png" width="320" height="192"/>
+ </tileset>
+ <tileset firstgid="171" name="generic_platformer_tiles" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="2352" columns="56">
+  <image source="generic_platformer_tiles.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="2523" name="beastlands" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="1560" columns="52">
+  <image source="beastlands.png" width="944" height="544"/>
+ </tileset>
+ <tileset firstgid="4083" name="_lockout_tileset" tilewidth="16" tileheight="16" tilecount="240" columns="20">
+  <image source="_lockout_tileset.png" trans="003039" width="320" height="192"/>
+ </tileset>
+ <layer name="background " width="240" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt17FRAmEAhNGfiEMOsCRFQFqjLzAWBbUICkAitoBLbpzhPOYFL9/kC/Y0LuUEAAAAAAAAAAAAAAAAAAAA/MlgAgBwH96HpezjIz7jEMf4iu/4GXa/EWhWVaWM4iHGUcckpjGLx6r7jUCzp/T5HPN4iUUsYxWvsdYvtLKtS9nFW939FqCdc7r9jYt+AQCAf2Djm0Bv6Rf6S7/QX/q9rSsiaR0E
+  </data>
+ </layer>
+ <layer name="ground" width="240" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2ddS1FAcx3FsXOiSF7B3RYpS1Kew94KFrr6FnbE3ut1LLxwbYG/Y21PYewFUwG9mlzFmD5LdPZtN4v8387nJnuw52Zx//mFIS5NIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUiSn9uhtLQ7aA2leiUSiXfj1TppZz0d+OGxdUkkXorUyf+VfhnRJBKJd99lrDHr9Qvr+4pvIanfVMYP++V/ih/eZaT/eid+2C8SSSqjel6JaNZ3gVSvRQi/yAz9m1vrsL4LpPo38SP736Rukb7V9/34nsR70lf9ul3HfvGR3+QTPoei71Vb6O/n0U/8Qie60G3+veKBa3BTEOvcrRoV+o3DeEzAREzCZGRiCrKQjRzkYjlWIA/5KEChxvWocpY9dQ7ncQEX0YRmtGjab07nCGL9Bk0svcXvfWgJlmJZxp/aXIkirMJqrMFaFKMEpShDOSpQqXE9qrzg932JV3iNN3iLd3ivqX6dziH1633W3qJzrBftwE7swm7swV7sw34cwEEcQjVqUIs61KMBjRrXo8pQjg/DcIzASIzCaIzRNK/TOYJWvzr6j5d6mBlrb7EeV41XjfWT67iBm7iF27iDVtzFPdzHAzzEIzzGEzzFMzzX/PvbM5vjczAX8zAfC7AQizTN63SOoNWvjv6TjB52LSKevWPtLfZ7Zj/HPtZvvuIbvqMN7ejAD/zEL3SiC93mb2FwHvpjAAZikKFvPaps5PgmbMYWbMU2bEeV5dxNQxiDLQ5tHRL7HEGrXx39Jxk9LJ76vTE4fC+svcV6z1R7zT42HtZ9Z+4pNz+fRO1NRiamIAvZyEEupmIa8pCPAhRiOmZgphHuUTruWW+5yGdNaEYLLuEyruCq5fyqUNg+o289Y2OdI2j1q6P/JPIdb3rRU7/WY6rziwy14l6OJzq2SNGrmqipZrTgkqL+kvn5CtazMrKuVViNNVgbua4SlKIM5ahAJdZhPTbEeO2q2J8v9pj37i3e4T0+4CM+4bOtpmKp33jnSFV01675PwUd/SeR70ikbkz7Dfe5+Xztyx7Wszeyp821HcBBHEI1alCLOtSjAY04jCM4imOR73BCFfvzxZ5ZobCxRrRZtjqMt35PZ4Sp5jgdgPotM9Ti6T/x9LDMdN7vkIVs5CAXCw3nes6ZimnIS09N/aquw7qmfBSgsJdr1jG25zOndadLPLHX72IX6tc6RxDq13xOO5Gs+17CXitFGcpRgZoY67chPVoq6rc6svZa1KE+spZGHMYRHMUxHMcJnMQpVFok8j2NEW7X75kEqHqjapyT+k10jmRIZv3+BiNiqLE=
+  </data>
+ </layer>
+ <objectgroup name="groundcolision" offsetx="0" offsety="13">
+  <object id="2" x="0" y="450" width="510" height="16"/>
+  <object id="9" x="608" y="435" width="173" height="31"/>
+  <object id="20" x="863" y="417" width="463" height="22"/>
+  <object id="37" x="1406" y="398" width="41" height="16"/>
+  <object id="39" x="1532" y="400" width="42" height="14"/>
+  <object id="43" x="1660" y="400" width="45" height="14"/>
+  <object id="44" x="1786" y="399" width="45" height="15"/>
+  <object id="46" x="1888" y="417" width="285" height="33"/>
+  <object id="47" x="2071" y="390" width="85" height="12"/>
+  <object id="48" x="2174" y="418" width="161" height="16"/>
+  <object id="72" x="2573.33" y="405" width="86.6667" height="15"/>
+  <object id="73" x="2716" y="377.333" width="186" height="8.66667"/>
+  <object id="75" x="2429.33" y="415" width="39.3333" height="14.6667"/>
+  <object id="76" x="2972" y="407.333" width="86" height="10.6667"/>
+  <object id="82" x="1" y="337" width="14" height="100"/>
+ </objectgroup>
+ <objectgroup name="damage">
+  <object id="77" x="511.333" y="452.667" width="96.6667" height="10.6667"/>
+  <object id="78" x="782.667" y="451.333" width="81.3333" height="8.66667"/>
+  <object id="79" x="1327.33" y="451.333" width="560.667" height="5.33333"/>
+  <object id="80" x="2336" y="466" width="1134.67" height="13.3333"/>
+  <object id="81" x="1552" y="661.333" width="1.33333"/>
+ </objectgroup>
+</map>

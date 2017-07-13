@@ -1,0 +1,7784 @@
+
+Gunslinger.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 1, 387
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 0
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 1, 261
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 1
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 124, 387
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 2
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 1, 135
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 3
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 124, 261
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 4
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 247, 387
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 5
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 1, 9
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 6
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 124, 135
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 7
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 247, 261
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 8
+Objects/Bullet/Grenade_
+  rotate: false
+  xy: 370, 387
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: 9
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 124, 40
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 0
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 124, 1
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 0
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 247, 166
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 1
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 370, 292
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 2
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 493, 418
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 3
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 586, 418
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 4
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 679, 418
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 5
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 772, 418
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 6
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 865, 418
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 7
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 209, 1
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 1
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 209, 1
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 9
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 217, 40
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 8
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 294, 1
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 2
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 294, 1
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 8
+Objects/Bullet/OrangeSpin_
+  rotate: false
+  xy: 463, 292
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 9
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 556, 325
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 0
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 648, 325
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 1
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 740, 325
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 2
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 832, 325
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 3
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 924, 325
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 4
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 556, 232
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 5
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 648, 232
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 6
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 740, 232
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 7
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 832, 232
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 8
+Objects/Bullet/YellowSpin_
+  rotate: false
+  xy: 924, 232
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: 9
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 370, 253
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 3
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 370, 253
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 7
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 455, 253
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 4
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 455, 253
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 6
+Objects/Bullet/YellowScale_
+  rotate: false
+  xy: 340, 214
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: 5
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 340, 175
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 0
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 425, 214
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 1
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 424, 175
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 2
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 340, 136
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 3
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 424, 136
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 4
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 310, 97
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 5
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 310, 58
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 6
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 394, 97
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 7
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 394, 58
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 8
+Objects/Bullet/OrangeScale_
+  rotate: false
+  xy: 379, 19
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: 9
+
+Gunslinger2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 354
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 0
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 1
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 1
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 359
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 0
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 11
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 1
+
+Gunslinger3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 354
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 2
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 1
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 3
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 359
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 2
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 11
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 3
+
+Gunslinger4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 354
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 4
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 1
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 5
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 359
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 4
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 11
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 5
+
+Gunslinger5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 354
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 6
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 1
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 7
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 359
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 6
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 11
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 7
+
+Gunslinger6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 354
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 8
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 1
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 9
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 359
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 8
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 11
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 9
+
+Gunslinger7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Explosion/GroundExplo_
+  rotate: false
+  xy: 1, 1
+  size: 525, 351
+  orig: 525, 351
+  offset: 0, 0
+  index: 10
+Objects/Explosion/MidAirExplo_
+  rotate: false
+  xy: 528, 6
+  size: 396, 346
+  orig: 396, 346
+  offset: 0, 0
+  index: 10
+
+Gunslinger8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 1, 692
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 0
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 1, 692
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 1
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 1, 519
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 2
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 1, 519
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 3
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 175, 692
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 4
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 1, 346
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 5
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 175, 519
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 6
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 175, 519
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 7
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 349, 692
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 8
+Objects/Muzzle/OrangeMuzzle_
+  rotate: false
+  xy: 1, 173
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: 9
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 175, 347
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 0
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 175, 347
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 1
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 349, 520
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 2
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 349, 520
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 3
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 523, 693
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 4
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 523, 693
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 5
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 523, 693
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 6
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 523, 693
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 7
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 1, 1
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 8
+Objects/Muzzle/YellowMuzzle_
+  rotate: false
+  xy: 175, 175
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: 9
+
+Gunslinger9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 0
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 0
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 0
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 0
+
+Gunslinger10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 1
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 1
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 1
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 1
+
+Gunslinger11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 2
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 2
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 2
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 2
+
+Gunslinger12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 3
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 3
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 3
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 3
+
+Gunslinger13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 4
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 4
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 5
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 6
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 4
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 4
+
+Gunslinger14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 5
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 7
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 5
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 5
+
+Gunslinger15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 6
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 8
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 6
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 6
+
+Gunslinger16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 491
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 7
+Soldier1/Melee_
+  rotate: false
+  xy: 1, 2
+  size: 525, 487
+  orig: 525, 487
+  offset: 0, 0
+  index: 9
+Soldier1/Run_
+  rotate: false
+  xy: 637, 550
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 7
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 7
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 8
+Soldier1/Jump_Shoot_
+  rotate: false
+  xy: 528, 1
+  size: 467, 488
+  orig: 467, 488
+  offset: 0, 0
+  index: 9
+
+Gunslinger17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 485
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 8
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 0
+Soldier1/Run_
+  rotate: false
+  xy: 637, 544
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 8
+Soldier1/Throw_
+  rotate: false
+  xy: 484, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 1
+
+Gunslinger18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Dead_
+  rotate: false
+  xy: 1, 485
+  size: 634, 530
+  orig: 634, 530
+  offset: 0, 0
+  index: 9
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 2
+Soldier1/Run_
+  rotate: false
+  xy: 637, 544
+  size: 385, 471
+  orig: 385, 471
+  offset: 0, 0
+  index: 9
+Soldier1/Throw_
+  rotate: false
+  xy: 484, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 3
+
+Gunslinger19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 474
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 0
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 0
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 553, 545
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 1
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 438, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 2
+
+Gunslinger20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 474
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 1
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 3
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 553, 545
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 4
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 438, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 5
+
+Gunslinger21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 474
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 2
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 6
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 553, 545
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 7
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 438, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 8
+
+Gunslinger22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 474
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 3
+Soldier1/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 435, 471
+  orig: 435, 471
+  offset: 0, 0
+  index: 9
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 553, 549
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 0
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 438, 5
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 1
+
+Gunslinger23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 470
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 4
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 2
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 553, 545
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 3
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 432, 1
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 4
+
+Gunslinger24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 470
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 5
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 5
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 553, 545
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 6
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 432, 1
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 7
+
+Gunslinger25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 456
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 6
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 553, 531
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 8
+Soldier1/Walk_Shoot_
+  rotate: false
+  xy: 553, 62
+  size: 429, 467
+  orig: 429, 467
+  offset: 0, 0
+  index: 9
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 0
+
+Gunslinger26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 456
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 7
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 553, 545
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 1
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 553, 90
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 2
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 3
+
+Gunslinger27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 456
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 8
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 553, 545
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 4
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 553, 90
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 5
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 6
+
+Gunslinger28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Happy_
+  rotate: false
+  xy: 1, 456
+  size: 550, 542
+  orig: 550, 542
+  offset: 0, 0
+  index: 9
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 553, 545
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 7
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 553, 90
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 8
+Soldier1/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 434, 453
+  orig: 434, 453
+  offset: 0, 0
+  index: 9
+
+Gunslinger29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 485
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 0
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 522
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 0
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 3
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 0
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 4
+
+Gunslinger30.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 485
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 1
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 522
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 1
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 3
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 1
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 5
+
+Gunslinger31.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 485
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 2
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 522
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 2
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 3
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 2
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 6
+
+Gunslinger32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 485
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 3
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 522
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 3
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 3
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 3
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 7
+
+Gunslinger33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 485
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 4
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 522
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 4
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 3
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 4
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 8
+
+Gunslinger34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 485
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 5
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 522
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 5
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 3
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 5
+Soldier1/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 481, 482
+  orig: 481, 482
+  offset: 0, 0
+  index: 9
+
+Gunslinger35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 483
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 6
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 520
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 6
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 1
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 6
+Soldier1/Walk_
+  rotate: false
+  xy: 1, 14
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 0
+
+Gunslinger36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 483
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 7
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 520
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 7
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 520
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 8
+Soldier1/Jump_
+  rotate: false
+  xy: 491, 520
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 9
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 491, 1
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 7
+Soldier1/Walk_
+  rotate: false
+  xy: 1, 14
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 1
+
+Gunslinger37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Hurt_
+  rotate: false
+  xy: 1, 452
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 0
+Soldier1/Hurt_
+  rotate: false
+  xy: 504, 452
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 1
+Soldier1/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 0
+Soldier1/Shoot_
+  rotate: false
+  xy: 434, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 1
+Soldier1/Shoot_
+  rotate: false
+  xy: 434, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 9
+
+Gunslinger38.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Hurt_
+  rotate: false
+  xy: 1, 452
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 2
+Soldier1/Hurt_
+  rotate: false
+  xy: 504, 452
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 3
+Soldier1/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 2
+Soldier1/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 8
+Soldier1/Shoot_
+  rotate: false
+  xy: 434, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 3
+Soldier1/Shoot_
+  rotate: false
+  xy: 434, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 7
+
+Gunslinger39.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Hurt_
+  rotate: false
+  xy: 1, 452
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 4
+Soldier1/Hurt_
+  rotate: false
+  xy: 504, 452
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 5
+Soldier1/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 4
+Soldier1/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 6
+Soldier1/Shoot_
+  rotate: false
+  xy: 434, 1
+  size: 431, 449
+  orig: 431, 449
+  offset: 0, 0
+  index: 5
+
+Gunslinger40.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Hurt_
+  rotate: false
+  xy: 1, 455
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 6
+Soldier1/Hurt_
+  rotate: false
+  xy: 504, 455
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 7
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 0
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 431, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 1
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 431, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 9
+
+Gunslinger41.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Hurt_
+  rotate: false
+  xy: 1, 455
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 8
+Soldier1/Hurt_
+  rotate: false
+  xy: 504, 455
+  size: 501, 524
+  orig: 501, 524
+  offset: 0, 0
+  index: 9
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 2
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 8
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 431, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 3
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 431, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 7
+
+Gunslinger42.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 1, 455
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 8
+Soldier1/Jump_Throw_
+  rotate: false
+  xy: 491, 455
+  size: 488, 534
+  orig: 488, 534
+  offset: 0, 0
+  index: 9
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 4
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 6
+Soldier1/Idle_Aim_
+  rotate: false
+  xy: 431, 1
+  size: 428, 452
+  orig: 428, 452
+  offset: 0, 0
+  index: 5
+
+Gunslinger43.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 1, 450
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 8
+Soldier1/Jump_Melee_
+  rotate: false
+  xy: 489, 450
+  size: 486, 517
+  orig: 486, 517
+  offset: 0, 0
+  index: 9
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 0
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 435, 1
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 1
+
+Gunslinger44.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 1, 450
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 2
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 3
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 435, 450
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 4
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 435, 450
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 5
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 435, 450
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 6
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 435, 1
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 7
+
+Gunslinger45.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 1, 490
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 8
+Soldier1/Crouch_Melee_
+  rotate: false
+  xy: 1, 41
+  size: 432, 447
+  orig: 432, 447
+  offset: 0, 0
+  index: 9
+Soldier1/Walk_
+  rotate: false
+  xy: 435, 470
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 2
+Soldier1/Walk_
+  rotate: false
+  xy: 435, 1
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 3
+
+Gunslinger46.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Walk_
+  rotate: false
+  xy: 1, 470
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 4
+Soldier1/Walk_
+  rotate: false
+  xy: 1, 1
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 5
+Soldier1/Walk_
+  rotate: false
+  xy: 382, 470
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 6
+Soldier1/Walk_
+  rotate: false
+  xy: 382, 1
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 7
+
+Gunslinger47.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Walk_
+  rotate: false
+  xy: 1, 470
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 8
+Soldier1/Walk_
+  rotate: false
+  xy: 1, 1
+  size: 379, 467
+  orig: 379, 467
+  offset: 0, 0
+  index: 9
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 382, 534
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 0
+Soldier1/Climb_
+  rotate: false
+  xy: 382, 73
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 0
+Soldier1/Climb_
+  rotate: false
+  xy: 701, 73
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 1
+
+Gunslinger48.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Climb_
+  rotate: false
+  xy: 1, 462
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 2
+Soldier1/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 3
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 320, 518
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 1
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 320, 518
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 9
+Soldier1/Climb_
+  rotate: false
+  xy: 320, 57
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 4
+Soldier1/Idle_
+  rotate: false
+  xy: 639, 64
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 0
+
+Gunslinger49.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Climb_
+  rotate: false
+  xy: 1, 462
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 5
+Soldier1/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 6
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 320, 518
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 2
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 320, 518
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 8
+Soldier1/Climb_
+  rotate: false
+  xy: 320, 57
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 7
+Soldier1/Idle_
+  rotate: false
+  xy: 639, 64
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 1
+Soldier1/Idle_
+  rotate: false
+  xy: 639, 64
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 9
+
+Gunslinger50.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Climb_
+  rotate: false
+  xy: 1, 455
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 8
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 1, 50
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 3
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 1, 50
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 7
+Soldier1/Climb_
+  rotate: false
+  xy: 320, 455
+  size: 317, 459
+  orig: 317, 459
+  offset: 0, 0
+  index: 9
+Soldier1/Idle_
+  rotate: false
+  xy: 439, 1
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 2
+Soldier1/Idle_
+  rotate: false
+  xy: 439, 1
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 8
+Soldier1/Idle_
+  rotate: false
+  xy: 639, 462
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 3
+Soldier1/Idle_
+  rotate: false
+  xy: 639, 462
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 7
+
+Gunslinger51.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 1, 455
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 4
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 1, 455
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 6
+Soldier1/Crouch_Shoot_
+  rotate: false
+  xy: 439, 455
+  size: 436, 403
+  orig: 436, 403
+  offset: 0, 0
+  index: 5
+Soldier1/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 4
+Soldier1/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 6
+Soldier1/Idle_
+  rotate: false
+  xy: 382, 1
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 5
+
+Gunslinger52.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 1, 406
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 0
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 1
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 9
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 424, 406
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 2
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 424, 406
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 8
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 424, 1
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 3
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 424, 1
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 7
+
+Gunslinger53.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 1, 486
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 4
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 1, 486
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 6
+Soldier1/Crouch_Aim_
+  rotate: false
+  xy: 1, 81
+  size: 421, 403
+  orig: 421, 403
+  offset: 0, 0
+  index: 5
+Soldier1/Crouch_
+  rotate: false
+  xy: 424, 446
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 0
+Soldier1/Crouch_
+  rotate: false
+  xy: 424, 1
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 1
+Soldier1/Crouch_
+  rotate: false
+  xy: 424, 1
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 9
+
+Gunslinger54.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier1/Crouch_
+  rotate: false
+  xy: 1, 446
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 2
+Soldier1/Crouch_
+  rotate: false
+  xy: 1, 446
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 8
+Soldier1/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 3
+Soldier1/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 7
+Soldier1/Crouch_
+  rotate: false
+  xy: 368, 446
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 4
+Soldier1/Crouch_
+  rotate: false
+  xy: 368, 446
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 6
+Soldier1/Crouch_
+  rotate: false
+  xy: 368, 1
+  size: 365, 443
+  orig: 365, 443
+  offset: 0, 0
+  index: 5
+
+Gunslinger55.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 0
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 0
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 0
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 0
+
+Gunslinger56.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 1
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 1
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 1
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 1
+
+Gunslinger57.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 2
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 2
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 2
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 2
+
+Gunslinger58.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 3
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 3
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 3
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 3
+
+Gunslinger59.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 4
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 4
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 4
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 4
+
+Gunslinger60.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 5
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 5
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 5
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 5
+
+Gunslinger61.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 6
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 6
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 6
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 6
+
+Gunslinger62.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 7
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 7
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 7
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 7
+
+Gunslinger63.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 8
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 8
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 8
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 8
+
+Gunslinger64.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Dead_
+  rotate: false
+  xy: 1, 469
+  size: 646, 528
+  orig: 646, 528
+  offset: 0, 0
+  index: 9
+Soldier2/Run_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 470, 465
+  orig: 470, 465
+  offset: 0, 0
+  index: 9
+Soldier2/Run_
+  rotate: false
+  xy: 649, 533
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: 9
+Soldier2/Crouch_Throw_
+  rotate: false
+  xy: 473, 1
+  size: 413, 466
+  orig: 413, 466
+  offset: 0, 0
+  index: 9
+
+Gunslinger65.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Hurt_
+  rotate: false
+  xy: 1, 456
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 0
+Soldier2/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 0
+Soldier2/Climb_
+  rotate: false
+  xy: 317, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 1
+Soldier2/Climb_
+  rotate: false
+  xy: 317, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 9
+Soldier2/Hurt_
+  rotate: false
+  xy: 503, 456
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 1
+Soldier2/Climb_
+  rotate: false
+  xy: 633, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 2
+Soldier2/Climb_
+  rotate: false
+  xy: 633, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 8
+
+Gunslinger66.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Hurt_
+  rotate: false
+  xy: 1, 456
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 2
+Soldier2/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 3
+Soldier2/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 7
+Soldier2/Climb_
+  rotate: false
+  xy: 317, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 4
+Soldier2/Climb_
+  rotate: false
+  xy: 317, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 6
+Soldier2/Hurt_
+  rotate: false
+  xy: 503, 456
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 3
+Soldier2/Climb_
+  rotate: false
+  xy: 633, 1
+  size: 314, 453
+  orig: 314, 453
+  offset: 0, 0
+  index: 5
+
+Gunslinger67.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Hurt_
+  rotate: false
+  xy: 1, 455
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 4
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 3
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 0
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 472, 1
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 0
+Soldier2/Hurt_
+  rotate: false
+  xy: 503, 455
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 5
+
+Gunslinger68.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Hurt_
+  rotate: false
+  xy: 1, 455
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 6
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 3
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 1
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 3
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 9
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 472, 1
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 1
+Soldier2/Hurt_
+  rotate: false
+  xy: 503, 455
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 7
+
+Gunslinger69.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Hurt_
+  rotate: false
+  xy: 1, 455
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 8
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 3
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 2
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 3
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 8
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 472, 1
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 2
+Soldier2/Hurt_
+  rotate: false
+  xy: 503, 455
+  size: 500, 562
+  orig: 500, 562
+  offset: 0, 0
+  index: 9
+
+Gunslinger70.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 0
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 516
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 0
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 49
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 1
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 3
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 7
+
+Gunslinger71.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 1
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 516
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 2
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 49
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 3
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 4
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 6
+
+Gunslinger72.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 2
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 516
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 4
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 49
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 5
+Soldier2/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 469, 450
+  orig: 469, 450
+  offset: 0, 0
+  index: 5
+
+Gunslinger73.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 468
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 3
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 531
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 6
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 64
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 7
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 8
+
+Gunslinger74.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 4
+Soldier2/Walk_Shoot_
+  rotate: false
+  xy: 562, 515
+  size: 451, 465
+  orig: 451, 465
+  offset: 0, 0
+  index: 9
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 61
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 3
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 0
+
+Gunslinger75.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 5
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 528
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 4
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 528
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 5
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 528
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 6
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 74
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 7
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 1
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 9
+
+Gunslinger76.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 6
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 528
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 8
+Soldier2/Crouch_Melee_
+  rotate: false
+  xy: 562, 74
+  size: 419, 452
+  orig: 419, 452
+  offset: 0, 0
+  index: 9
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 2
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 8
+
+Gunslinger77.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 7
+Soldier2/Walk_
+  rotate: false
+  xy: 562, 513
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 0
+Soldier2/Walk_
+  rotate: false
+  xy: 562, 44
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 1
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 3
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 7
+
+Gunslinger78.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 8
+Soldier2/Walk_
+  rotate: false
+  xy: 562, 513
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 2
+Soldier2/Walk_
+  rotate: false
+  xy: 562, 44
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 3
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 4
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 6
+
+Gunslinger79.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 559, 528
+  orig: 559, 528
+  offset: 0, 0
+  index: 9
+Soldier2/Walk_
+  rotate: false
+  xy: 562, 513
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 4
+Soldier2/Walk_
+  rotate: false
+  xy: 562, 44
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 5
+Soldier2/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 465, 449
+  orig: 465, 449
+  offset: 0, 0
+  index: 5
+
+Gunslinger80.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 516
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 0
+Soldier2/Jump_
+  rotate: false
+  xy: 1, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 0
+Soldier2/Jump_
+  rotate: false
+  xy: 507, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 1
+Soldier2/Walk_
+  rotate: false
+  xy: 544, 556
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 6
+
+Gunslinger81.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 516
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 1
+Soldier2/Jump_
+  rotate: false
+  xy: 1, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 2
+Soldier2/Jump_
+  rotate: false
+  xy: 507, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 3
+Soldier2/Walk_
+  rotate: false
+  xy: 544, 556
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 7
+
+Gunslinger82.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 516
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 2
+Soldier2/Jump_
+  rotate: false
+  xy: 1, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 4
+Soldier2/Jump_
+  rotate: false
+  xy: 507, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 5
+Soldier2/Walk_
+  rotate: false
+  xy: 544, 556
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 8
+
+Gunslinger83.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 516
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 3
+Soldier2/Jump_
+  rotate: false
+  xy: 1, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 6
+Soldier2/Jump_
+  rotate: false
+  xy: 507, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 7
+Soldier2/Jump_
+  rotate: false
+  xy: 507, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 8
+Soldier2/Jump_
+  rotate: false
+  xy: 507, 1
+  size: 504, 513
+  orig: 504, 513
+  offset: 0, 0
+  index: 9
+Soldier2/Walk_
+  rotate: false
+  xy: 544, 556
+  size: 401, 467
+  orig: 401, 467
+  offset: 0, 0
+  index: 9
+
+Gunslinger84.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 510
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 4
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 5
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 621
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 0
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 223
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 1
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 223
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 9
+
+Gunslinger85.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 510
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 6
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 7
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 621
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 2
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 621
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 8
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 223
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 3
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 223
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 7
+
+Gunslinger86.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 510
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 8
+Soldier2/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 541, 507
+  orig: 541, 507
+  offset: 0, 0
+  index: 9
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 621
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 4
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 621
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 6
+Soldier2/Crouch_Shoot_
+  rotate: false
+  xy: 544, 223
+  size: 467, 396
+  orig: 467, 396
+  offset: 0, 0
+  index: 5
+
+Gunslinger87.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 1, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 0
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 495, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 1
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 0
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 464, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 1
+
+Gunslinger88.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 1, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 2
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 495, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 3
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 2
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 464, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 3
+
+Gunslinger89.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 1, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 4
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 495, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 5
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 4
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 464, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 5
+
+Gunslinger90.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 1, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 6
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 495, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 7
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 6
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 464, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 7
+
+Gunslinger91.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 1, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 8
+Soldier2/Jump_Throw_
+  rotate: false
+  xy: 495, 399
+  size: 492, 548
+  orig: 492, 548
+  offset: 0, 0
+  index: 9
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 8
+Soldier2/Crouch_Aim_
+  rotate: false
+  xy: 464, 1
+  size: 461, 396
+  orig: 461, 396
+  offset: 0, 0
+  index: 9
+
+Gunslinger92.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 1, 469
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 0
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 499, 469
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 1
+Soldier2/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 0
+Soldier2/Idle_
+  rotate: false
+  xy: 385, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 1
+Soldier2/Idle_
+  rotate: false
+  xy: 385, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 9
+
+Gunslinger93.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 1, 469
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 2
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 499, 469
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 3
+Soldier2/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 2
+Soldier2/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 8
+Soldier2/Idle_
+  rotate: false
+  xy: 385, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 3
+Soldier2/Idle_
+  rotate: false
+  xy: 385, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 7
+
+Gunslinger94.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 1, 469
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 4
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 499, 469
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 5
+Soldier2/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 4
+Soldier2/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 6
+Soldier2/Idle_
+  rotate: false
+  xy: 385, 1
+  size: 382, 466
+  orig: 382, 466
+  offset: 0, 0
+  index: 5
+
+Gunslinger95.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 1, 436
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 6
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 499, 436
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 7
+Soldier2/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 0
+Soldier2/Crouch_
+  rotate: false
+  xy: 359, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 1
+Soldier2/Crouch_
+  rotate: false
+  xy: 359, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 9
+
+Gunslinger96.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 1, 436
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 8
+Soldier2/Jump_Melee_
+  rotate: false
+  xy: 499, 436
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: 9
+Soldier2/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 2
+Soldier2/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 8
+Soldier2/Crouch_
+  rotate: false
+  xy: 359, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 3
+Soldier2/Crouch_
+  rotate: false
+  xy: 359, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 7
+
+Gunslinger97.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Throw_
+  rotate: false
+  xy: 1, 436
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 0
+Soldier2/Throw_
+  rotate: false
+  xy: 499, 436
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 1
+Soldier2/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 4
+Soldier2/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 6
+Soldier2/Crouch_
+  rotate: false
+  xy: 359, 1
+  size: 356, 433
+  orig: 356, 433
+  offset: 0, 0
+  index: 5
+
+Gunslinger98.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 1, 507
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 0
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 488, 507
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 1
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 2
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 488, 1
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 3
+
+Gunslinger99.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 1, 507
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 4
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 488, 507
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 5
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 6
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 488, 1
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 7
+
+Gunslinger100.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 2
+Soldier2/Throw_
+  rotate: false
+  xy: 499, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 3
+
+Gunslinger101.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 4
+Soldier2/Throw_
+  rotate: false
+  xy: 499, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 5
+
+Gunslinger102.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 6
+Soldier2/Throw_
+  rotate: false
+  xy: 499, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 7
+
+Gunslinger103.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 8
+Soldier2/Throw_
+  rotate: false
+  xy: 499, 1
+  size: 496, 521
+  orig: 496, 521
+  offset: 0, 0
+  index: 9
+
+Gunslinger104.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 8
+Soldier2/Jump_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 485, 504
+  orig: 485, 504
+  offset: 0, 0
+  index: 9
+
+Gunslinger105.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 0
+Soldier3/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 0
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 558
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 0
+Soldier3/Throw_
+  rotate: false
+  xy: 511, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 1
+
+Gunslinger106.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 1
+Soldier3/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 2
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 558
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 1
+Soldier3/Throw_
+  rotate: false
+  xy: 511, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 3
+
+Gunslinger107.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 2
+Soldier3/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 4
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 558
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 2
+Soldier3/Throw_
+  rotate: false
+  xy: 511, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 5
+
+Gunslinger108.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 3
+Soldier3/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 6
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 558
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 3
+Soldier3/Throw_
+  rotate: false
+  xy: 511, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 7
+
+Gunslinger109.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 4
+Soldier3/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 558
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 4
+Soldier3/Throw_
+  rotate: false
+  xy: 511, 1
+  size: 508, 495
+  orig: 508, 495
+  offset: 0, 0
+  index: 9
+
+Gunslinger110.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 451
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 5
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 511
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 5
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 49
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 6
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 0
+
+Gunslinger111.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 451
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 6
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 511
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 7
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 49
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 8
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 1
+
+Gunslinger112.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 451
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 7
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 451
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 8
+Soldier3/Dead_
+  rotate: false
+  xy: 1, 451
+  size: 632, 520
+  orig: 632, 520
+  offset: 0, 0
+  index: 9
+Soldier3/Crouch_Throw_
+  rotate: false
+  xy: 635, 511
+  size: 350, 460
+  orig: 350, 460
+  offset: 0, 0
+  index: 9
+Soldier3/Shoot_
+  rotate: false
+  xy: 635, 79
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 0
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 2
+
+Gunslinger113.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 451
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 0
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 513
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 0
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 45
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 1
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 3
+
+Gunslinger114.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 451
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 1
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 513
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 2
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 513
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 3
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 513
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 4
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 45
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 5
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 4
+
+Gunslinger115.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 451
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 2
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 513
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 6
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 45
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 7
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 45
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 8
+Soldier3/Jump_Shoot_
+  rotate: false
+  xy: 557, 45
+  size: 438, 466
+  orig: 438, 466
+  offset: 0, 0
+  index: 9
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 5
+
+Gunslinger116.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 451
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 3
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 6
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 487, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 7
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 557, 532
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 0
+
+Gunslinger117.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 451
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 4
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 8
+Soldier3/Run_Shoot_
+  rotate: false
+  xy: 487, 1
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 9
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 557, 532
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 1
+
+Gunslinger118.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 5
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 0
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 354, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 1
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 536
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 0
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 89
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 1
+
+Gunslinger119.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 6
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 2
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 354, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 3
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 536
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 2
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 89
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 3
+
+Gunslinger120.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 7
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 4
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 5
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 6
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 354, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 7
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 536
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 4
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 89
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 5
+
+Gunslinger121.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 453
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_Melee_
+  rotate: false
+  xy: 354, 1
+  size: 351, 450
+  orig: 351, 450
+  offset: 0, 0
+  index: 9
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 536
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 6
+Soldier3/Climb_
+  rotate: false
+  xy: 707, 89
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 7
+
+Gunslinger122.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Happy_
+  rotate: false
+  xy: 1, 452
+  size: 554, 528
+  orig: 554, 528
+  offset: 0, 0
+  index: 9
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 1, 3
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 2
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 557, 533
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 3
+Soldier3/Idle_
+  rotate: false
+  xy: 402, 1
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 0
+Soldier3/Idle_
+  rotate: false
+  xy: 701, 82
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 1
+Soldier3/Idle_
+  rotate: false
+  xy: 701, 82
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 9
+
+Gunslinger123.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 452
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 0
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 1, 3
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 4
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 554, 535
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 5
+Soldier3/Idle_
+  rotate: false
+  xy: 402, 1
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 2
+Soldier3/Idle_
+  rotate: false
+  xy: 402, 1
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 8
+Soldier3/Idle_
+  rotate: false
+  xy: 701, 84
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 3
+Soldier3/Idle_
+  rotate: false
+  xy: 701, 84
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 7
+
+Gunslinger124.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 452
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 1
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 1, 3
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 6
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 554, 535
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 7
+Soldier3/Idle_
+  rotate: false
+  xy: 402, 1
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 4
+Soldier3/Idle_
+  rotate: false
+  xy: 402, 1
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 6
+Soldier3/Idle_
+  rotate: false
+  xy: 701, 84
+  size: 297, 449
+  orig: 297, 449
+  offset: 0, 0
+  index: 5
+
+Gunslinger125.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 511
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 0
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 1
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 640
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 0
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 259
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 1
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 259
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 9
+
+Gunslinger126.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 511
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 2
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 3
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 640
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 2
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 640
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 259
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 3
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 259
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 7
+
+Gunslinger127.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 511
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 4
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 511
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 5
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 511
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 6
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 7
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 640
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 4
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 640
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 6
+Soldier3/Crouch_Aim_
+  rotate: false
+  xy: 555, 259
+  size: 402, 379
+  orig: 402, 379
+  offset: 0, 0
+  index: 5
+
+Gunslinger128.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 511
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 8
+Soldier3/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 552, 508
+  orig: 552, 508
+  offset: 0, 0
+  index: 9
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 555, 640
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 0
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 555, 259
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 1
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 555, 259
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 9
+
+Gunslinger129.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 433
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 2
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 554, 516
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 8
+Soldier3/Walk_Shoot_
+  rotate: false
+  xy: 554, 67
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: 9
+Soldier3/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 1
+Soldier3/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 9
+
+Gunslinger130.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 448
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 3
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 1, 15
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 0
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 554, 547
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 1
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 554, 547
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 9
+Soldier3/Climb_
+  rotate: false
+  xy: 376, 1
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 8
+Soldier3/Climb_
+  rotate: false
+  xy: 694, 100
+  size: 316, 445
+  orig: 316, 445
+  offset: 0, 0
+  index: 9
+
+Gunslinger131.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 433
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 4
+Soldier3/Shoot_
+  rotate: false
+  xy: 554, 533
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 2
+Soldier3/Shoot_
+  rotate: false
+  xy: 554, 533
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 8
+Soldier3/Shoot_
+  rotate: false
+  xy: 554, 101
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 3
+Soldier3/Shoot_
+  rotate: false
+  xy: 554, 101
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 7
+Soldier3/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 4
+Soldier3/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 6
+
+Gunslinger132.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 434
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 5
+Soldier3/Shoot_
+  rotate: false
+  xy: 554, 534
+  size: 374, 430
+  orig: 374, 430
+  offset: 0, 0
+  index: 5
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 554, 101
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 2
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 554, 101
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 8
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 3
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 7
+
+Gunslinger133.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 452
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 6
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 1, 19
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 4
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 1, 19
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 6
+Soldier3/Idle_Aim_
+  rotate: false
+  xy: 554, 551
+  size: 373, 431
+  orig: 373, 431
+  offset: 0, 0
+  index: 5
+Soldier3/Run_
+  rotate: false
+  xy: 376, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 0
+
+Gunslinger134.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 452
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 7
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 452
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 8
+Soldier3/Jump_
+  rotate: false
+  xy: 1, 452
+  size: 551, 530
+  orig: 551, 530
+  offset: 0, 0
+  index: 9
+Soldier3/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 1
+Soldier3/Run_
+  rotate: false
+  xy: 554, 533
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 2
+Soldier3/Run_
+  rotate: false
+  xy: 358, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 3
+
+Gunslinger135.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 452
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 0
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 465
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 0
+Soldier3/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 4
+Soldier3/Run_
+  rotate: false
+  xy: 358, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 5
+
+Gunslinger136.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 452
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 1
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 465
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 1
+Soldier3/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 6
+Soldier3/Run_
+  rotate: false
+  xy: 358, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 7
+
+Gunslinger137.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 452
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 2
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 465
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 2
+Soldier3/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 8
+Soldier3/Run_
+  rotate: false
+  xy: 358, 1
+  size: 355, 449
+  orig: 355, 449
+  offset: 0, 0
+  index: 9
+
+Gunslinger138.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 450
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 3
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 463
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 3
+Soldier3/Walk_
+  rotate: false
+  xy: 1, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 0
+Soldier3/Walk_
+  rotate: false
+  xy: 341, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 1
+Soldier3/Walk_
+  rotate: false
+  xy: 681, 14
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 2
+
+Gunslinger139.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 450
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 4
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 463
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 4
+Soldier3/Walk_
+  rotate: false
+  xy: 1, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 3
+Soldier3/Walk_
+  rotate: false
+  xy: 341, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 4
+Soldier3/Walk_
+  rotate: false
+  xy: 681, 14
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 5
+
+Gunslinger140.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 450
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 5
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 463
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 5
+Soldier3/Walk_
+  rotate: false
+  xy: 1, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 6
+Soldier3/Walk_
+  rotate: false
+  xy: 341, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 7
+Soldier3/Walk_
+  rotate: false
+  xy: 681, 14
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 8
+
+Gunslinger141.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 450
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 6
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 463
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 6
+Soldier3/Walk_
+  rotate: false
+  xy: 1, 1
+  size: 338, 447
+  orig: 338, 447
+  offset: 0, 0
+  index: 9
+Soldier3/Crouch_
+  rotate: false
+  xy: 341, 33
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 0
+Soldier3/Crouch_
+  rotate: false
+  xy: 658, 46
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 1
+Soldier3/Crouch_
+  rotate: false
+  xy: 658, 46
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 9
+
+Gunslinger142.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 418
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 7
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 431
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 7
+Soldier3/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 2
+Soldier3/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_
+  rotate: false
+  xy: 318, 1
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 3
+Soldier3/Crouch_
+  rotate: false
+  xy: 318, 1
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 7
+Soldier3/Crouch_
+  rotate: false
+  xy: 635, 14
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 4
+Soldier3/Crouch_
+  rotate: false
+  xy: 635, 14
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 6
+
+Gunslinger143.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 382
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 8
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 395
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 2
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 8
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 404, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 3
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 404, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 7
+
+Gunslinger144.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Throw_
+  rotate: false
+  xy: 1, 382
+  size: 518, 549
+  orig: 518, 549
+  offset: 0, 0
+  index: 9
+Soldier3/Hurt_
+  rotate: false
+  xy: 521, 395
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: 9
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 4
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 6
+Soldier3/Crouch_Shoot_
+  rotate: false
+  xy: 404, 1
+  size: 401, 379
+  orig: 401, 379
+  offset: 0, 0
+  index: 5
+
+Gunslinger145.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 1, 418
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 0
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 513, 418
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 1
+Soldier3/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 315, 415
+  orig: 315, 415
+  offset: 0, 0
+  index: 5
+
+Gunslinger146.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 2
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 513, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 3
+
+Gunslinger147.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 4
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 513, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 5
+
+Gunslinger148.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 6
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 513, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 7
+
+Gunslinger149.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 8
+Soldier3/Jump_Melee_
+  rotate: false
+  xy: 513, 1
+  size: 510, 540
+  orig: 510, 540
+  offset: 0, 0
+  index: 9
+
+Gunslinger150.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 0
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 1
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 1
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 555
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 0
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 115
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 1
+
+Gunslinger151.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 2
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 1
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 3
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 555
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 2
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 115
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 3
+
+Gunslinger152.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 4
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 1
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 5
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 555
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 4
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 115
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 5
+
+Gunslinger153.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 6
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 1
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 7
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 555
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 6
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 115
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 7
+
+Gunslinger154.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 498
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 8
+Soldier4/Dead_
+  rotate: false
+  xy: 1, 1
+  size: 640, 495
+  orig: 640, 495
+  offset: 0, 0
+  index: 9
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 555
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 8
+Soldier4/Walk_
+  rotate: false
+  xy: 643, 115
+  size: 377, 438
+  orig: 377, 438
+  offset: 0, 0
+  index: 9
+
+Gunslinger155.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 0
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 0
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 500, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 1
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 560, 567
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 0
+
+Gunslinger156.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 1
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 2
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 500, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 3
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 560, 567
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 1
+
+Gunslinger157.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 2
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 4
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 500, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 5
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 560, 567
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 2
+
+Gunslinger158.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 3
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 4
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 5
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 6
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 7
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 6
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 500, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 7
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 560, 567
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 3
+
+Gunslinger159.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 513
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 8
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 8
+Soldier4/Jump_Melee_
+  rotate: false
+  xy: 500, 1
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: 9
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 560, 567
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 4
+
+Gunslinger160.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Happy_
+  rotate: false
+  xy: 1, 510
+  size: 557, 507
+  orig: 557, 507
+  offset: 0, 0
+  index: 9
+Soldier4/Hurt_
+  rotate: false
+  xy: 1, 1
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 0
+Soldier4/Hurt_
+  rotate: false
+  xy: 483, 1
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 1
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 560, 564
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 5
+
+Gunslinger161.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 0
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 0
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 0
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 545, 566
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 6
+
+Gunslinger162.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 1
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 1
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 1
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 545, 566
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 7
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 545, 566
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 8
+Soldier4/Jump_Shoot_
+  rotate: false
+  xy: 545, 566
+  size: 449, 453
+  orig: 449, 453
+  offset: 0, 0
+  index: 9
+
+Gunslinger163.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 2
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 2
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 2
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 545, 570
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 0
+
+Gunslinger164.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 3
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 3
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 3
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 545, 570
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 1
+
+Gunslinger165.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 4
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 4
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 4
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 545, 570
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 2
+
+Gunslinger166.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 5
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 5
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 5
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 545, 570
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 3
+
+Gunslinger167.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 6
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 6
+Soldier4/Melee_
+  rotate: false
+  xy: 503, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 6
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 545, 570
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 4
+
+Gunslinger168.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 7
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 8
+Soldier4/Jump_
+  rotate: false
+  xy: 1, 521
+  size: 542, 498
+  orig: 542, 498
+  offset: 0, 0
+  index: 9
+Soldier4/Melee_
+  rotate: false
+  xy: 1, 19
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 7
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 522, 1
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 7
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 545, 570
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 5
+
+Gunslinger169.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Melee_
+  rotate: false
+  xy: 1, 503
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 8
+Soldier4/Melee_
+  rotate: false
+  xy: 1, 1
+  size: 519, 500
+  orig: 519, 500
+  offset: 0, 0
+  index: 9
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 522, 485
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 8
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 522, 34
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 6
+
+Gunslinger170.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Jump_Throw_
+  rotate: false
+  xy: 1, 494
+  size: 500, 518
+  orig: 500, 518
+  offset: 0, 0
+  index: 9
+Soldier4/Throw_
+  rotate: false
+  xy: 503, 521
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 0
+Soldier4/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 1
+Soldier4/Throw_
+  rotate: false
+  xy: 509, 28
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 2
+
+Gunslinger171.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Throw_
+  rotate: false
+  xy: 1, 494
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 3
+Soldier4/Throw_
+  rotate: false
+  xy: 1, 1
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 4
+Soldier4/Throw_
+  rotate: false
+  xy: 509, 494
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 5
+Soldier4/Throw_
+  rotate: false
+  xy: 509, 1
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 6
+
+Gunslinger172.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Throw_
+  rotate: false
+  xy: 1, 510
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 7
+Soldier4/Throw_
+  rotate: false
+  xy: 1, 17
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 8
+Soldier4/Throw_
+  rotate: false
+  xy: 509, 510
+  size: 506, 491
+  orig: 506, 491
+  offset: 0, 0
+  index: 9
+Soldier4/Hurt_
+  rotate: false
+  xy: 509, 1
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 2
+
+Gunslinger173.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Hurt_
+  rotate: false
+  xy: 1, 510
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 3
+Soldier4/Hurt_
+  rotate: false
+  xy: 1, 1
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 4
+Soldier4/Hurt_
+  rotate: false
+  xy: 483, 510
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 5
+Soldier4/Hurt_
+  rotate: false
+  xy: 483, 1
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 6
+
+Gunslinger174.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Hurt_
+  rotate: false
+  xy: 1, 510
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 7
+Soldier4/Hurt_
+  rotate: false
+  xy: 1, 1
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 8
+Soldier4/Hurt_
+  rotate: false
+  xy: 483, 510
+  size: 480, 507
+  orig: 480, 507
+  offset: 0, 0
+  index: 9
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 483, 59
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 7
+
+Gunslinger175.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 1, 452
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 8
+Soldier4/Run_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 443, 449
+  orig: 443, 449
+  offset: 0, 0
+  index: 9
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 446, 476
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 0
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 446, 49
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 1
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 446, 49
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 9
+
+Gunslinger176.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 1, 428
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 2
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 1, 428
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 8
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 3
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 7
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 434, 428
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 4
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 434, 428
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 6
+Soldier4/Idle_Aim_
+  rotate: false
+  xy: 434, 1
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 5
+
+Gunslinger177.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Shoot_
+  rotate: false
+  xy: 1, 423
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 0
+Soldier4/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 1
+Soldier4/Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 9
+Soldier4/Shoot_
+  rotate: false
+  xy: 437, 423
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 2
+Soldier4/Shoot_
+  rotate: false
+  xy: 437, 423
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 8
+Soldier4/Shoot_
+  rotate: false
+  xy: 437, 1
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 3
+Soldier4/Shoot_
+  rotate: false
+  xy: 437, 1
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 7
+
+Gunslinger178.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Shoot_
+  rotate: false
+  xy: 1, 441
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 4
+Soldier4/Shoot_
+  rotate: false
+  xy: 1, 441
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 6
+Soldier4/Shoot_
+  rotate: false
+  xy: 437, 441
+  size: 434, 420
+  orig: 434, 420
+  offset: 0, 0
+  index: 5
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 0
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 418, 1
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 1
+
+Gunslinger179.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 1, 441
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 2
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 3
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 418, 441
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 4
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 418, 1
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 5
+
+Gunslinger180.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 1, 441
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 6
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 1, 1
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 7
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 418, 441
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 8
+Soldier4/Walk_Shoot_
+  rotate: false
+  xy: 418, 1
+  size: 415, 438
+  orig: 415, 438
+  offset: 0, 0
+  index: 9
+
+Gunslinger181.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 1, 444
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 0
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 1
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 415, 444
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 2
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 415, 1
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 3
+
+Gunslinger182.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 1, 444
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 4
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 5
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 415, 444
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 6
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 415, 1
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 7
+
+Gunslinger183.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 1, 444
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 8
+Soldier4/Crouch_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 412, 441
+  orig: 412, 441
+  offset: 0, 0
+  index: 9
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 415, 453
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 0
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 415, 19
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 1
+
+Gunslinger184.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 1, 435
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 2
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 1, 1
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 3
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 404, 435
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 4
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 404, 435
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 5
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 404, 435
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 6
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 404, 1
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 7
+
+Gunslinger185.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 1, 455
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 8
+Soldier4/Crouch_Melee_
+  rotate: false
+  xy: 1, 21
+  size: 401, 432
+  orig: 401, 432
+  offset: 0, 0
+  index: 9
+Soldier4/Idle_
+  rotate: false
+  xy: 404, 445
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 0
+Soldier4/Idle_
+  rotate: false
+  xy: 404, 1
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 1
+Soldier4/Idle_
+  rotate: false
+  xy: 404, 1
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 9
+
+Gunslinger186.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Idle_
+  rotate: false
+  xy: 1, 445
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 2
+Soldier4/Idle_
+  rotate: false
+  xy: 1, 445
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 8
+Soldier4/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 3
+Soldier4/Idle_
+  rotate: false
+  xy: 1, 1
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 7
+Soldier4/Idle_
+  rotate: false
+  xy: 375, 445
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 4
+Soldier4/Idle_
+  rotate: false
+  xy: 375, 445
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 6
+Soldier4/Idle_
+  rotate: false
+  xy: 375, 1
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: 5
+
+Gunslinger187.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Run_
+  rotate: false
+  xy: 1, 448
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 0
+Soldier4/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 1
+Soldier4/Run_
+  rotate: false
+  xy: 358, 448
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 2
+Soldier4/Run_
+  rotate: false
+  xy: 358, 1
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 3
+
+Gunslinger188.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Run_
+  rotate: false
+  xy: 1, 448
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 4
+Soldier4/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 5
+Soldier4/Run_
+  rotate: false
+  xy: 358, 448
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 6
+Soldier4/Run_
+  rotate: false
+  xy: 358, 1
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 7
+
+Gunslinger189.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Run_
+  rotate: false
+  xy: 1, 448
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 8
+Soldier4/Run_
+  rotate: false
+  xy: 1, 1
+  size: 355, 445
+  orig: 355, 445
+  offset: 0, 0
+  index: 9
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 358, 516
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 0
+Soldier4/Climb_
+  rotate: false
+  xy: 358, 76
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 0
+Soldier4/Climb_
+  rotate: false
+  xy: 680, 76
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 1
+
+Gunslinger190.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Climb_
+  rotate: false
+  xy: 1, 441
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 2
+Soldier4/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 3
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 323, 502
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 1
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 323, 502
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 9
+Soldier4/Climb_
+  rotate: false
+  xy: 323, 62
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 4
+Soldier4/Crouch_
+  rotate: false
+  xy: 645, 75
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 0
+
+Gunslinger191.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Climb_
+  rotate: false
+  xy: 1, 441
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 5
+Soldier4/Climb_
+  rotate: false
+  xy: 1, 1
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 6
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 323, 502
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 2
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 323, 502
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 8
+Soldier4/Climb_
+  rotate: false
+  xy: 323, 62
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 7
+Soldier4/Crouch_
+  rotate: false
+  xy: 645, 75
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 1
+Soldier4/Crouch_
+  rotate: false
+  xy: 645, 75
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 9
+
+Gunslinger192.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Climb_
+  rotate: false
+  xy: 1, 428
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 8
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 1, 48
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 0
+Soldier4/Climb_
+  rotate: false
+  xy: 323, 428
+  size: 320, 438
+  orig: 320, 438
+  offset: 0, 0
+  index: 9
+Soldier4/Crouch_
+  rotate: false
+  xy: 409, 1
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 2
+Soldier4/Crouch_
+  rotate: false
+  xy: 409, 1
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 8
+Soldier4/Crouch_
+  rotate: false
+  xy: 645, 441
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 3
+Soldier4/Crouch_
+  rotate: false
+  xy: 645, 441
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 7
+
+Gunslinger193.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 1, 381
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 3
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 1, 381
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 7
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 4
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 1, 2
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 6
+Soldier4/Crouch_Shoot_
+  rotate: false
+  xy: 422, 381
+  size: 419, 377
+  orig: 419, 377
+  offset: 0, 0
+  index: 5
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 422, 1
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 1
+
+Gunslinger194.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 1, 381
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 2
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 3
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 409, 381
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 4
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 409, 1
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 5
+
+Gunslinger195.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 1, 381
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 6
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 1, 1
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 7
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 409, 381
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 8
+Soldier4/Crouch_Aim_
+  rotate: false
+  xy: 409, 1
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: 9
+
+Gunslinger196.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Soldier4/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 4
+Soldier4/Crouch_
+  rotate: false
+  xy: 1, 1
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 6
+Soldier4/Crouch_
+  rotate: false
+  xy: 353, 1
+  size: 350, 425
+  orig: 350, 425
+  offset: 0, 0
+  index: 5

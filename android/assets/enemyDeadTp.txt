@@ -1,0 +1,75 @@
+enemyDeadTp.png
+size: 1022, 1249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dead_One
+  rotate: true
+  xy: 1, 636
+  size: 307, 436
+  orig: 632, 520
+  offset: 0, 0
+  index: 0
+Dead_
+  rotate: true
+  xy: 516, 371
+  size: 254, 479
+  orig: 632, 520
+  offset: 0, 0
+  index: 1
+Dead_
+  rotate: true
+  xy: 516, 627
+  size: 373, 436
+  orig: 632, 520
+  offset: 102, 29
+  index: 2
+Dead_
+  rotate: false
+  xy: 518, 1
+  size: 491, 368
+  orig: 632, 520
+  offset: 28, 63
+  index: 3
+Dead_
+  rotate: false
+  xy: 1, 1
+  size: 515, 339
+  orig: 632, 520
+  offset: 40, 52
+  index: 4
+Dead_
+  rotate: false
+  xy: 1, 342
+  size: 513, 292
+  orig: 632, 520
+  offset: 69, 53
+  index: 5
+Dead_
+  rotate: false
+  xy: 1, 1002
+  size: 510, 246
+  orig: 632, 520
+  offset: 91, 50
+  index: 6
+Dead_
+  rotate: false
+  xy: 513, 1002
+  size: 508, 235
+  orig: 632, 520
+  offset: 102, 50
+  index: 7
+Dead_
+  rotate: false
+  xy: 513, 1002
+  size: 508, 235
+  orig: 632, 520
+  offset: 102, 50
+  index: 8
+Dead_
+  rotate: false
+  xy: 513, 1002
+  size: 508, 235
+  orig: 632, 520
+  offset: 102, 50
+  index: 9

@@ -1,0 +1,75 @@
+bossAimTp.png
+size: 1724, 1275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle_Aim_
+  rotate: false
+  xy: 0, 0
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 0
+Idle_Aim_
+  rotate: false
+  xy: 431, 0
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 1
+Idle_Aim_
+  rotate: false
+  xy: 862, 0
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 2
+Idle_Aim_
+  rotate: false
+  xy: 1293, 0
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 3
+Idle_Aim_
+  rotate: false
+  xy: 0, 425
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 4
+Idle_Aim_
+  rotate: false
+  xy: 431, 425
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 5
+Idle_Aim_
+  rotate: false
+  xy: 862, 425
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 6
+Idle_Aim_
+  rotate: false
+  xy: 1293, 425
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 7
+Idle_Aim_
+  rotate: false
+  xy: 0, 850
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 8
+Idle_Aim_
+  rotate: false
+  xy: 431, 850
+  size: 431, 425
+  orig: 431, 425
+  offset: 0, 0
+  index: 9

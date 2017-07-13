@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level>
+   <Enemy>
+      	<userData>enemy</userData>
+   		<posX>700</posX>
+      	<posY>80</posY>
+      	<HP>1</HP>
+      	<ShootDistance>125</ShootDistance>
+      	<ShootDelay>1</ShootDelay>
+   </Enemy>
+   <Enemy>
+   		<userData>enemy</userData>
+   		<posX>1200</posX>
+      	<posY>90</posY>
+      	<HP>1</HP>
+      	<ShootDistance>125</ShootDistance>
+      	<ShootDelay>1</ShootDelay>
+   </Enemy>
+   <Enemy>
+      	<userData>enemy</userData>
+   		<posX>2100</posX>
+      	<posY>200</posY>
+      	<HP>1</HP>
+      	<ShootDistance>125</ShootDistance>
+      	<ShootDelay>1</ShootDelay>
+   </Enemy>
+   <Enemy>
+      	<userData>enemy</userData>
+   		<posX>2200</posX>
+      	<posY>120</posY>
+      	<HP>1</HP>
+      	<ShootDistance>125</ShootDistance>
+      	<ShootDelay>1</ShootDelay>
+   </Enemy>
+   <Boss>
+      	<userData>enemy</userData>
+   		<posX>2800</posX>
+      	<posY>100</posY>
+      	<HP>5</HP>
+      	<ShootDistance>300</ShootDistance>
+      	<ShootDelay>1</ShootDelay>
+      	<BossAbility>1</BossAbility>
+   </Boss>
+  
+</Level>

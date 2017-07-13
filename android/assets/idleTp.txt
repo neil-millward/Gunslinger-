@@ -1,0 +1,75 @@
+idleTp.png
+size: 1895, 904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle_One
+  rotate: false
+  xy: 0, 0
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 0
+Idle_
+  rotate: false
+  xy: 379, 0
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 1
+Idle_
+  rotate: false
+  xy: 758, 0
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 2
+Idle_
+  rotate: false
+  xy: 1137, 0
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 3
+Idle_
+  rotate: false
+  xy: 1516, 0
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 4
+Idle_
+  rotate: false
+  xy: 0, 452
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 5
+Idle_
+  rotate: false
+  xy: 379, 452
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 6
+Idle_
+  rotate: false
+  xy: 758, 452
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 7
+Idle_
+  rotate: false
+  xy: 1137, 452
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 8
+Idle_
+  rotate: false
+  xy: 1516, 452
+  size: 379, 452
+  orig: 379, 452
+  offset: 0, 0
+  index: 9

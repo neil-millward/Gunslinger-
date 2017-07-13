@@ -1,0 +1,47 @@
+enemyRunTp.png
+size: 968, 1344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Run_Shoot_
+  rotate: false
+  xy: 0, 0
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 0
+Run_Shoot_
+  rotate: false
+  xy: 484, 0
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 1
+Run_Shoot_
+  rotate: false
+  xy: 0, 448
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 2
+Run_Shoot_
+  rotate: false
+  xy: 484, 448
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 5
+Run_Shoot_
+  rotate: false
+  xy: 0, 896
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 6
+Run_Shoot_
+  rotate: false
+  xy: 484, 896
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: 8

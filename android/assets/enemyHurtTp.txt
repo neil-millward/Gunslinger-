@@ -1,0 +1,75 @@
+enemyHurtTp.png
+size: 1584, 982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hurt_One
+  rotate: false
+  xy: 1, 1
+  size: 308, 436
+  orig: 492, 536
+  offset: 0, 0
+  index: 0
+Hurt_
+  rotate: false
+  xy: 1, 492
+  size: 243, 489
+  orig: 492, 536
+  offset: 0, 0
+  index: 1
+Hurt_
+  rotate: false
+  xy: 885, 470
+  size: 378, 451
+  orig: 492, 536
+  offset: 0, 0
+  index: 2
+Hurt_
+  rotate: false
+  xy: 246, 492
+  size: 330, 474
+  orig: 492, 536
+  offset: 0, 0
+  index: 3
+Hurt_
+  rotate: false
+  xy: 578, 477
+  size: 305, 467
+  orig: 492, 536
+  offset: 0, 0
+  index: 4
+Hurt_
+  rotate: false
+  xy: 1268, 1
+  size: 315, 428
+  orig: 492, 536
+  offset: 0, 0
+  index: 5
+Hurt_
+  rotate: false
+  xy: 579, 1
+  size: 305, 467
+  orig: 492, 536
+  offset: 0, 0
+  index: 6
+Hurt_
+  rotate: false
+  xy: 247, 1
+  size: 330, 474
+  orig: 492, 536
+  offset: 0, 0
+  index: 7
+Hurt_
+  rotate: false
+  xy: 886, 1
+  size: 380, 449
+  orig: 492, 536
+  offset: 0, 0
+  index: 8
+Hurt_
+  rotate: false
+  xy: 1, 1
+  size: 244, 489
+  orig: 492, 536
+  offset: 0, 0
+  index: 9

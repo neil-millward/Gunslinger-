@@ -1,0 +1,75 @@
+testTp.png
+size: 1542, 1988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jump_One
+  rotate: false
+  xy: 0, 0
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 0
+Jump_
+  rotate: false
+  xy: 514, 0
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 1
+Jump_
+  rotate: false
+  xy: 1028, 0
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 2
+Jump_
+  rotate: false
+  xy: 0, 497
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 3
+Jump_
+  rotate: false
+  xy: 514, 497
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 4
+Jump_
+  rotate: false
+  xy: 1028, 497
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 5
+Jump_
+  rotate: false
+  xy: 0, 994
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 6
+Jump_
+  rotate: false
+  xy: 514, 994
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 7
+Jump_
+  rotate: false
+  xy: 1028, 994
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 8
+Jump_
+  rotate: false
+  xy: 0, 1491
+  size: 514, 497
+  orig: 514, 497
+  offset: 0, 0
+  index: 9

@@ -1,0 +1,75 @@
+enemyIdleTp.png
+size: 1125, 859
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle_Aim_One
+  rotate: false
+  xy: 1, 1
+  size: 373, 430
+  orig: 373, 431
+  offset: 0, 0
+  index: 0
+Idle_Aim_
+  rotate: false
+  xy: 376, 1
+  size: 373, 429
+  orig: 373, 431
+  offset: 0, 0
+  index: 1
+Idle_Aim_
+  rotate: false
+  xy: 751, 1
+  size: 373, 428
+  orig: 373, 431
+  offset: 0, 0
+  index: 2
+Idle_Aim_
+  rotate: false
+  xy: 751, 431
+  size: 373, 427
+  orig: 373, 431
+  offset: 0, 0
+  index: 3
+Idle_Aim_
+  rotate: false
+  xy: 376, 432
+  size: 373, 426
+  orig: 373, 431
+  offset: 0, 0
+  index: 4
+Idle_Aim_
+  rotate: false
+  xy: 1, 433
+  size: 373, 425
+  orig: 373, 431
+  offset: 0, 0
+  index: 5
+Idle_Aim_
+  rotate: false
+  xy: 376, 432
+  size: 373, 426
+  orig: 373, 431
+  offset: 0, 0
+  index: 6
+Idle_Aim_
+  rotate: false
+  xy: 751, 431
+  size: 373, 427
+  orig: 373, 431
+  offset: 0, 0
+  index: 7
+Idle_Aim_
+  rotate: false
+  xy: 751, 1
+  size: 373, 428
+  orig: 373, 431
+  offset: 0, 0
+  index: 8
+Idle_Aim_
+  rotate: false
+  xy: 376, 1
+  size: 373, 429
+  orig: 373, 431
+  offset: 0, 0
+  index: 9
